@@ -1,17 +1,114 @@
-<h1 align="center">Hi, I'm Bashar Salmo</h1>
-<h3 align="center">An IT lover from Syria living in Austria.</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsmrroot](https://github.com/itsmrroot)
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=itsmrroot&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Bashar%20Salmo&descSize=20&descAlignY=60&descColor=39d353&animation=fadeIn" width="100%"/>
 
-- 📫 How to reach me **beschir.salmo@icloud.com**
+<!-- Typing animation -->
+<a href="https://github.com/itsmrroot">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bashar+%F0%9F%91%8B;IT+Lover+%7C+Syria+%E2%86%92+Austria;Always+learning%2C+always+building;root%40machine%3A~%24+%5B+keep+hacking+%5D" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/only.bisho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="only.bisho" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Badge row -->
+![Profile Views](https://komarev.com/ghpvc/?username=itsmrroot&color=00ff41&style=flat-square&label=VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/itsmrroot?label=Followers&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/itsmrroot?tab=followers)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ buymeacoffee.com/salmobashar "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" buymeacoffee.com/salmobashar " /></a></p><br><br>
+</div>
+
+---
+
+```bash
+┌──(itsmrroot㉿machine)-[~]
+└─$ whoami
+```
+
+```
+  Name     : Bashar Salmo
+  Origin   : Syria 🇸🇾 → Austria 🇦🇹
+  Role     : IT Lover & Developer
+  Tagline  : [ root@machine:~$ keep hacking ]
+  Contact  : beschir.salmo@icloud.com
+  Focus    : Web Dev · Linux · Java · Open Source
+```
+
+```bash
+┌──(itsmrroot㉿machine)-[~]
+└─$ cat interests.txt
+```
+
+```
+  ⚡ Tinkering with Linux systems
+  🌐 Building web apps with HTML/CSS/JS/PHP
+  ☕ Writing clean Java code
+  🐍 Scripting with Python
+  📖 Always learning something new
+```
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<!-- Languages -->
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Systems & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsmrroot&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_border=false&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmrroot&theme=chartreuse-dark&background=0d1117&border=00ff41&ring=00ff41&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dates=8b949e" width="48%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmrroot&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=false" width="40%" alt="Top Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/@only.bisho-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/only.bisho)
+[![Email](https://img.shields.io/badge/Email-beschir.salmo%40icloud.com-0078D4?style=for-the-badge&logo=apple&logoColor=white)](mailto:beschir.salmo@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-itsmrroot-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmrroot)
+
+<br/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/salmobashar)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+
+*"The quieter you become, the more you can hear."* — root
+
+</div>
