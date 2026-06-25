@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff41,100:0d1117&amp;height=200&amp;section=header&amp;text=itsmrroot&amp;fontSize=60&amp;fontColor=00ff41&amp;fontAlignY=38&amp;desc=Bashar%20Salmo%20%7C%20IT%20Lover%20%26%20Developer" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff41,100:0d1117&amp;height=200&amp;section=header&amp;text=itsmrroot&amp;fontSize=60&amp;fontColor=00ff41&amp;fontAlignY=38&amp;desc=Bashar%20Salmo%20%7C%20IT%20Lover%20and%20Developer" alt="Header" width="100%"/>
 
 <a href="https://github.com/itsmrroot">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I'm+Bashar+%F0%9F%91%8B;IT+Lover+%26+Developer;Passionate+About+Open+Source;Always+Learning+New+Technologies" alt="Typing animation"/>
