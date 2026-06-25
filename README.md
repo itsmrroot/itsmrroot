@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=itsmrroot&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Bashar%20Sal[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=itsmrroot&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Bashar%20Salmo%20-%20IT%20Lover%20%26%20Developer" alt="Header" />
 
 <!-- Typing animation -->
 <a href="https://github.com/itsmrroot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bashar+%F0%9F%91%8B;IT+Lover+[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bashar+%F0%9F%91%8B;IT+Lover+%26+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </a>
 
 <br/>
@@ -15,13 +15,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/itsmrroot?label=Followers&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/itsmrroot?tab=followers)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
@@ -85,12 +78,23 @@
 ## 📊 GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmrroot&theme=github_dark" width="48%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=itsmrroot&background=0d1117&border=00ff41&ring=00ff41&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dat[...]
+<img src="https://streak-stats.demolab.com/?user=itsmrroot&background=0d1117&border=00ff41&ring=00ff41&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dateColor=ffffff" width="48%" alt="GitHub Streak"/>
 
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmrroot&theme=github_dark" width="40%" alt="Top Languages"/>
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmrroot/itsmrroot/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsmrroot/itsmrroot/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -105,7 +109,7 @@
 
 <br/>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/salmobash[...]
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/salmobash)
 
 </div>
 
