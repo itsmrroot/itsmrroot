@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=itsmrroot&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Bashar%20Salmo%20%7C%20IT%20Lover%20%26%20Developer" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff41,100:0d1117&amp;height=200&amp;section=header&amp;text=itsmrroot&amp;fontSize=60&amp;fontColor=00ff41&amp;fontAlignY=38&amp;desc=Bashar%20Salmo%20%7C%20IT%20Lover%20%26%20Developer" alt="Header" width="100%"/>
 
 <a href="https://github.com/itsmrroot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bashar+%F0%9F%91%8B;IT+Lover+%26+Developer;Passionate+About+Open+Source;Always+Learning+New+Technologies" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I'm+Bashar+%F0%9F%91%8B;IT+Lover+%26+Developer;Passionate+About+Open+Source;Always+Learning+New+Technologies" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -73,12 +73,12 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmrroot&theme=github_dark" width="48%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=itsmrroot&background=0d1117&border=00ff41&ring=00ff41&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dateFormat=Y-m-d" width="48%" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmrroot&amp;theme=github_dark" width="48%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=itsmrroot&amp;background=0d1117&amp;border=00ff41&amp;ring=00ff41&amp;fire=39d353&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=00ff41&amp;sideLabels=00ff41&amp;dateFormat=Y-m-d" width="48%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmrroot&theme=github_dark" width="40%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmrroot&amp;theme=github_dark" width="40%" alt="Top Languages"/>
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff41,100:0d1117&amp;height=100&amp;section=footer" width="100%"/>
 
 *"The quieter you become, the more you can hear."* — root
 
