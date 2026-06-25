@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff41,100:0d1117&amp;height=200&amp;section=header&amp;text=itsmrroot&amp;fontSize=60&amp;fontColor=00ff41&amp;fontAlignY=38&amp;desc=Bashar%20Salmo%20%7C%20IT%20Lover%20and%20Developer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f0fff4,50:00aa2f,100:f0fff4&amp;height=200&amp;section=header&amp;text=itsmrroot&amp;fontSize=60&amp;fontColor=006622&amp;fontAlignY=38&amp;desc=Bashar%20Salmo%20%7C%20IT%20Lover%20and%20Developer" alt="Header" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff41,100:0d1117&amp;height=200&amp;section=header&amp;text=itsmrroot&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Bashar%20Salmo%20%7C%20IT%20Lover%20and%20Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f0fff4,50:00cc44,100:f0fff4&amp;height=200&amp;section=header&amp;text=itsmrroot&amp;fontSize=60&amp;fontColor=0d1117&amp;fontAlignY=38&amp;desc=Bashar%20Salmo%20%7C%20IT%20Lover%20and%20Developer" alt="Header" width="100%"/>
 </picture>
 
 <a href="https://github.com/itsmrroot">
