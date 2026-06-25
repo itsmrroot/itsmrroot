@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=itsmrroot&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Bashar%20Salmo%20%7C%20IT%20Lover%20%26%20Developer" alt="Header"/>
 
-<!-- Typing animation -->
 <a href="https://github.com/itsmrroot">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bashar+%F0%9F%91%8B;IT+Lover+%26+Developer;Passionate+About+Open+Source;Always+Learning+New+Technologies" alt="Typing animation"/>
 </a>
 
 <br/>
 
-<!-- Badge row -->
 ![Profile Views](https://komarev.com/ghpvc/?username=itsmrroot&color=00ff41&style=flat-square&label=VISITORS)
 [![GitHub followers](https://img.shields.io/github/followers/itsmrroot?label=Followers&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/itsmrroot?tab=followers)
 
@@ -116,7 +113,6 @@
 
 <div align="center">
 
-<!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
 *"The quieter you become, the more you can hear."* — root
