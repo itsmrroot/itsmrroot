@@ -76,12 +76,21 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmrroot&amp;theme=github_dark" width="48%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=itsmrroot&amp;background=0d1117&amp;border=00ff41&amp;ring=00ff41&amp;fire=39d353&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=00ff41&amp;sideLabels=00ff41&amp;dateFormat=Y-m-d" width="48%" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmrroot&amp;theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmrroot&amp;theme=github" width="48%" alt="GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=itsmrroot&amp;background=0d1117&amp;border=00ff41&amp;ring=00ff41&amp;fire=39d353&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=00ff41&amp;sideLabels=00ff41&amp;dateFormat=Y-m-d"/>
+  <img src="https://streak-stats.demolab.com/?user=itsmrroot&amp;background=f0fff4&amp;border=00aa2f&amp;ring=00aa2f&amp;fire=00cc44&amp;currStreakNum=0d1117&amp;sideNums=0d1117&amp;currStreakLabel=00aa2f&amp;sideLabels=00aa2f&amp;dateFormat=Y-m-d" width="48%" alt="GitHub Streak"/>
+</picture>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmrroot&amp;theme=github_dark" width="40%" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmrroot&amp;theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmrroot&amp;theme=github" width="40%" alt="Top Languages"/>
+</picture>
 
 </div>
 
