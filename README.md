@@ -6,7 +6,10 @@
 </picture>
 
 <a href="https://github.com/itsmrroot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I'm+Bashar+%F0%9F%91%8B;IT+Lover+%26+Developer;Passionate+About+Open+Source;Always+Learning+New+Technologies" alt="Typing animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I'm+Bashar+%F0%9F%91%8B;IT+Lover+%26+Developer;Passionate+About+Open+Source;Always+Learning+New+Technologies"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=006622&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I'm+Bashar+%F0%9F%91%8B;IT+Lover+%26+Developer;Passionate+About+Open+Source;Always+Learning+New+Technologies" alt="Typing animation"/>
+  </picture>
 </a>
 
 <br/>
