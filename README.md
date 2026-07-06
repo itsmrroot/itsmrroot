@@ -81,8 +81,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmrroot&theme=github" width="48%" alt="GitHub Stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmrroot/itsmrroot/output/github-streak-stats-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/itsmrroot/itsmrroot/output/github-streak-stats.svg" width="48%" alt="GitHub Streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=itsmrroot&background=0d1117&border=00ff41&ring=00ff41&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dateFormat=Y-m-d"/>
+  <img src="https://streak-stats.demolab.com/?user=itsmrroot&background=f0fff4&border=00aa2f&ring=00aa2f&fire=00cc44&currStreakNum=0d1117&sideNums=0d1117&currStreakLabel=00aa2f&sideLabels=00aa2f&dateFormat=Y-m-d" width="48%" alt="GitHub Streak"/>
 </picture>
 
 <br/>
