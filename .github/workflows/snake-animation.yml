@@ -30,14 +30,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats SVG
+        continue-on-error: true
         run: |
           mkdir -p dist
-          curl -fsSL --retry 5 --retry-all-errors --retry-delay 5 \
+          curl -fsSL --retry 8 --retry-all-errors --retry-delay 10 \
             "https://streak-stats.demolab.com/?user=itsmrroot&background=0d1117&border=00ff41&ring=00ff41&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dateFormat=Y-m-d" \
-            -o dist/github-streak-stats-dark.svg
-          curl -fsSL --retry 5 --retry-all-errors --retry-delay 5 \
+            -o /tmp/streak-dark.svg && \
+          curl -fsSL --retry 8 --retry-all-errors --retry-delay 10 \
             "https://streak-stats.demolab.com/?user=itsmrroot&background=f0fff4&border=00aa2f&ring=00aa2f&fire=00cc44&currStreakNum=0d1117&sideNums=0d1117&currStreakLabel=00aa2f&sideLabels=00aa2f&dateFormat=Y-m-d" \
-            -o dist/github-streak-stats.svg
+            -o /tmp/streak-light.svg && \
+          cp /tmp/streak-dark.svg dist/github-streak-stats-dark.svg && \
+          cp /tmp/streak-light.svg dist/github-streak-stats.svg
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
