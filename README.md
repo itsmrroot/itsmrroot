@@ -79,8 +79,8 @@
 ## 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmrroot&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmrroot&theme=github" width="48%" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=itsmrroot&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=itsmrroot&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=itsmrroot&background=0d1117&border=00ff41&ring=00ff41&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dateFormat=Y-m-d"/>
@@ -90,8 +90,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmrroot&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmrroot&theme=github" width="40%" alt="Top Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=itsmrroot&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsmrroot&layout=compact&theme=default&hide_border=true" width="40%" alt="Top Languages"/>
 </picture>
 
 </div>
