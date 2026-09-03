@@ -60,6 +60,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Systems & Tools**
 
@@ -69,6 +70,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
