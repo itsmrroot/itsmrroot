@@ -61,6 +61,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Systems & Tools**
 
